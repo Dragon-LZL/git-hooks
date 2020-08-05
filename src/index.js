@@ -7,5 +7,4 @@ const obj = {
 	}
 };
 console.log('===');
-
 console.log(lint, obj);
